@@ -14,7 +14,7 @@ body{
 }
 
 .container{
-    background-image: url('./assets/images/illustration-sign-up-mobile.svg');
+    background-image: url('illustration-sign-up-mobile.svg');
     width: 100vw;
     height: 40vh;
     border-radius: 0 0 10px 10px;
@@ -41,7 +41,7 @@ ul{
 }
 
 ul li{
-    list-style-image: url('./assets/images/icon-list.svg');
+    list-style-image: url('icon-list.svg');
 }
 
 form{
@@ -110,7 +110,7 @@ button:active
     }
     .container{
         float: right;
-        background-image: url('./assets/images/illustration-sign-up-desktop.svg');
+        background-image: url('illustration-sign-up-desktop.svg');
         width: 43vw;
         height: 90vh;
         border-radius: 15px;
